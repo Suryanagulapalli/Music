@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.bg-container
+{
+    background-image: url("https://wallpapersmug.com/download/3840x2400/150dce/live-concert-music-marshmello.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.button
+{
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+
+.button:hover
+{
+    background-color: bisque;
+    border-style: solid;
+}
+.music-card
+{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    background-color:aqua;
+    height: 180px;
+    padding: 6px;
+    text-align: center;
+}
+
+.heading
+{
+   font-family:"roboto";
+   font-weight: bold;
+
+}
+
+.paragraph
+{
+   font-family:"roboto";
+   font-weight: bold;
+}

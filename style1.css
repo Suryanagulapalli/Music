@@ -1,0 +1,41 @@
+.bg-container
+{
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000");
+    background-size: cover;
+    height: 125vh;
+    width: 100vw;
+}
+
+.bg-container-heading
+{   
+    color: white;
+    font-family: 'roboto';
+    font-size: bold;
+    font-style: italic;
+}
+
+img
+{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.songs-heading
+{
+    font-family: 'roboto';
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.song-card
+{
+    background-color: white;
+    width: 310px;
+    height: 330px;
+    margin: 35px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
